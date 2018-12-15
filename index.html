@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NODE</title>
+
+    <style>
+        body{
+            background: palevioletred;
+            color: #333;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        h1{
+            font-size: 48px;
+            text-transform: uppercase;
+            text-align: center;
+            letter-spacing: 2px
+        }
+        p{
+            font-size: 16px;
+            text-align: center;
+        }
+    </style>
+    <script>
+        
+        class User{
+            constructor(name, email){
+                this.name = name;
+                this.email = email;
+                this.score = 0;
+            }
+
+            login() {
+                console.log(`${this.name} barusaja login`);
+                return this;
+            }
+
+            logout() {
+                console.log(`${this.name} barusaja logout`);
+                return this;
+            }   
+
+            updateScore(){
+                this.score++;
+                console.log(`${this.name} score is now ${this.score}`);
+                // it is return the instance of object
+                return this;
+            };
+        }
+
+        var user_1 = new User('azmi', 'assmuni@gmail.com');
+        
+        console.log(user_1);
+
+        user_1.login().updateScore().updateScore().logout();
+
+        // ### PENJELASAN:
+        // user_1 menjalankan login() kemudian menghasilkan [user] barusaja login kemudian dalam function itu
+        // dia akan mereturn this yaitu instance berupa object user_1 untuk kembali dapat di jalankan pada
+        // method chain berikutnya
+
+    </script>
+</head>
+<body>
+    <h1>Welcome to the most awesome website on the net</h1>
+    <p style="font-style: italic">"Live is an education. It is learned mostly through what you discover on your own and not through what others tell you."</p>
+</body>
+</html>

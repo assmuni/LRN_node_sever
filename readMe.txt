@@ -1,0 +1,1387 @@
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
+kalau kita mau membuat web app pasti tidak cukup hanya menggunakan satu bahasa saja.
+
+misal kita harus pakai html, javascript sebagai front-end dan php sebagai back-end.
+
+tapi sekarang, cukup satu bahasa yaitu : javascipt yang akan menghandle front-end dan back-end.
+
+bukannya javascript itu kegunaannya untuk nangani logic di halaman browser ya, kok bisa jalan di backend?
+
+berkat chrome v8 javascript engine akhirnya javascript bisa juga jalan di backend dan lahirlah nodejs
+
+Kesan pertama saya saat pertama kali koding dengan node js ini serasa di permudah banget dalam urusan environment nya.
+
+ya secara , kalau kita ngoding php , gak bisa cuma install php terus php nya bisa jalan gitu aja. php butuh apache sebagai web server nya, jadi harus install apache web server juga.
+
+tapi dengan nodejs ini , dia juga akan bertindak sebagai web server. jadi untuk menjalankan web app nya kita hanya butuh nodejs.
+
+kita gak perlu lagi ngatur-ngatur webserver apache nya hehe , udah di urusin sama nodejs nya.
+
+oke jadi gimana cara ngebuat web app dengan nodejs ini?
+
+pertama tentu kita butuh nodejs terinstall di komputer kita, untuk cara install nya silahkan lihat dokumentasi nodejs , oh ya gak usah khawatir soal os apa yang support , karena nodejs ini bisa jalan di windows, dan unix
