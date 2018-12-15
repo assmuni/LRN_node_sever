@@ -29,8 +29,8 @@
 // var http = require('http');
 // var fs = require('fs');
 
-// // var myReadStream = fs.createReadStream(__dirname + '/readMe.txt');
-// var myReadStream = fs.createReadStream(__dirname + '/readMe.txt', 'utf8');
+// // var myReadStream = fs.createReadStream(__dirname + '/exFile.txt');
+// var myReadStream = fs.createReadStream(__dirname + '/exFile.txt', 'utf8');
 
 // // # event listener
 // // setiap ada data yng di pecah menjadi chuck maka event listener di bawah akan melihat jika event nya data maka
@@ -47,7 +47,7 @@
 // var fs = require('fs');
 
 // // #1 membaca data fs akan membaca data dan memecahnya menjadi bagian kecil/chunk
-// var myReadStream = fs.createReadStream(__dirname + '/readMe.txt', 'utf8');
+// var myReadStream = fs.createReadStream(__dirname + '/exFile.txt', 'utf8');
 // // #4 menulis data yang di terima dari #3
 // var myWriteStream = fs.createWriteStream(__dirname + '/writeMe.txt');
 
@@ -72,7 +72,7 @@
 
 // var fs = require('fs');
 
-// var myReadStream = fs.createReadStream(__dirname + '/readMe.txt', 'utf8');
+// var myReadStream = fs.createReadStream(__dirname + '/exFile.txt', 'utf8');
 // var myWriteStream = fs.createWriteStream(__dirname + '/writeMe.txt');
 
 // // pipeing from readable stream to write stream
@@ -93,7 +93,7 @@
 //     res.writeHead(200, {'Content-Type': 'plain/text'});
 
 //     // # membaca dan mengarahkan data pada respon server dengan menggunakan pipe()
-//     var readData = fs.createReadStream(__dirname + '/readMe.txt', 'utf8');
+//     var readData = fs.createReadStream(__dirname + '/exFile.txt', 'utf8');
 //     readData.pipe(res);
 
 //     // # untuk mengetahui pembagian data pada file
@@ -189,7 +189,7 @@ var server = http.createServer(function(req, res){
         fs.createReadStream(__dirname+'/data.json').pipe(res);
     } else if(req.url === "/text") {
         res.writeHead(200, {'Content-Type': 'text/plain'});
-        fs.createReadStream(__dirname+'/readMe.txt').pipe(res);
+        fs.createReadStream(__dirname+'/exFile.txt').pipe(res);
     } else {
         res.writeHead(404, {'Content-Type': 'application/json'});
         var notFound = {
