@@ -1,6 +1,4 @@
-// ### THIS IS SERVER MOTHER FATHER
-
-
+'### THIS IS SERVER MOTHER FATHER'
 // var http = require('http');
 
 // // # param_1 = request server (request + request headers)
@@ -18,13 +16,12 @@
 // server.listen(3000, '127.0.0.1');
 // console.log('you dawgs, server on 127.0.0.1:3000');
 
-
 // # BUFFER : temporary storage yang di gunakan untuk mengnumpulkan data kecil
-
 // # STREAM : aliran data yang mengalir dari satu tempat ke tempat lainnya Data -> buffer -> data_processed -> viewing client
 
 
-// ### READABLE STREAMS membaca file data
+
+'### READABLE STREAMS membaca file data'
 
 // var http = require('http');
 // var fs = require('fs');
@@ -36,13 +33,12 @@
 // // setiap ada data yng di pecah menjadi chuck maka event listener di bawah akan melihat jika event nya data maka
 // // function di bawah ini akan berjalan 
 // myReadStream.on('data', function(chunk){
-//     console.log('---- new chunk received ----');
-//     console.log(chunk);
+//         console.log('---- new chunk received ----');
+//         console.log(chunk);
 // });
 
 
-// ### WRITABLE STREAMS membaca data dan mengirimkannya
-
+'### WRITABLE STREAMS membaca data dan mengirimkannya'
 // var http = require('http');
 // var fs = require('fs');
 
@@ -54,10 +50,11 @@
 // // #2 event listener untuk memantau chunck yg di terima
 // myReadStream.on('data', function(chunk){
 //     console.log('---- new chunk received ----');
-
+    
 //     // #3 write data to new file
 //     myWriteStream.write(chunk);
 // });
+
 
 // ### CAUNTION
 // sama seperti fs.writeFile yg sebelumnya cuman di fs.createReadStream dia menggunakan stream dan buffer
@@ -66,7 +63,7 @@
 
 
 
-// ### PIPEING
+'### PIPEING'
 
 // # PIPE : di gunakan untuk mengahrahkan kemana isi file yg telah di read untuk di write di suatu tempat
 
@@ -80,7 +77,7 @@
 
 
 
-// ### USING PIPE
+'### USING PIPE'
 // menggunakan pipe untuk mengirimkan data yg di dapat dari reading proses pada suatu file menuju client/browser
 // menguunakan server yg telah di buat dan contoh pipe yg telah di buat pula
 
@@ -102,8 +99,6 @@
 //         console.log(chunck);
 //     });
 
-//     // res.write('server cuy');
-//     // res.end();
 // });
 
 // server.listen(3000, '127.0.0.1');
@@ -112,8 +107,7 @@
 
 
 
-// ### SERVING HTML PAGES
-
+'### SERVING HTML PAGES'
 // var http = require('http');
 // var fs = require('fs');
 
@@ -134,8 +128,7 @@
 
 
 
-// # SERVING JSON DATA (OMG this think looks like a small api)
-
+'# SERVING JSON DATA (OMG this think looks like a small api)'
 // var http = require('http');
 // var fs = require('fs');
 
@@ -173,8 +166,7 @@
 // });
 
 
-// ### BASIC ROUTING
-
+'### BASIC ROUTING'
 var http = require('http');
 var fs = require('fs');
 
